@@ -52,7 +52,7 @@ Si vous rencontrez des problèmes de connexion qui n'aboutissent pas dans certai
 
 Lors des talks ou dans les salons de discussions, vous pouvez extraire et agrandir la fenêtre de vidéo :
 - Dans la fenêtre contenant la vidéo, en bas il y a un symbole nommé "Passer en lecteur réduit". Lorsque vous cliquez dessus, la fenêtre de la vidéo se détache et est alors indépendante de l'application ou de la page Discord
-  ![Alt text](gifs/reduce_reader.gif)
+  ![Alt text](gifs/reduce_player.gif)
 - En haut de cette fenêtre, vous avez un bouton vous permettant d'afficher ou non en miniature les autres participants    ("Grille" ou "Focus" suivant la visualisation courante)
 - Une autre option vous permet d'afficher ou non les participants n'ayant pas activé la caméra : ... "Plus" -> "Afficher les participants sans vidéo”
 
