@@ -61,7 +61,7 @@ Si vous avez plusieurs micro, speakers ou webcam, alors vous pouvez choisir lesq
 # Q&A :
 Lors de présentation, un salon textuel, “_question-réponses_” dédié permet de poser des questions aux speakers. Pour poser une question, commencez un message par **!question** (suivi d’un espace) puis votre question. Par exemple :
 
-`**!question** quel compilateur est utilisé ?
+`!question quel compilateur est utilisé ?
 `
 
 Les questions sont automatiquement transmises aux speakers qui pourront y répondre.
