@@ -15,7 +15,7 @@ Nous vous conseillons de mettre le nom par lequel vous souhaitez être appelé, 
 Discord émet un son de notification lors de l'arrivée ou du départ d'un participant dans un salon. Pour supprimer ces notifications :
 - en bas à droite, "Paramètres utilisateur"
 - "Notifications"/"Sons"
-- Décocher "Arrivée utilisateur" et "Départ utilisateur"
+- Décocher "Arrivée utilisateur", "Départ utilisateur", "Arrivée de spectateur" et "Départ de spectateur"
 
 ![Alt text](gifs/disable_notifications.gif)
 
